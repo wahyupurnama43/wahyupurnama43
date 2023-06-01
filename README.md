@@ -13,11 +13,11 @@ No activity tracked
 
 
 ### 🛠 &nbsp;Tech Stack
-<img align="left" alt="PHP"  src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=PHP&logoColor=#777BB4"/>
-<img align="left" alt="Java"  src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white"/>
-<img align="left" alt="JS"  src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=#F7DF1E"/>
-<img align="left" alt="Laravel"  src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=Laravel&logoColor=#FF2D20"/>
-<img align="left" alt="React"  src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=#61DAFB"/>
+<img align="left" alt="PHP"  src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/>
+<img align="left" alt="Java"  src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+<img align="left" alt="JS"  src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+<img align="left" alt="Laravel"  src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=Laravel&logoColor=white"/>
+<img align="left" alt="React"  src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 
 <details>
